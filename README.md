@@ -1,2 +1,2 @@
 # simple-rpg
-A simple rpg made with python
+the dev branch, you can suggest improvements here.
